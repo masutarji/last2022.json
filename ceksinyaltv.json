@@ -1,0 +1,95 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Pengertian TV Digital",
+      "image": "https://cdn.antaranews.com/cache/800x533/2022/04/14/tv-digital.jpg",
+      "description": "Pengertian Tentang TV Digital",
+      "link": "https://masutarji.github.io/isinya/pengertiantv.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara mendapatkan siaran TV digital dengan antena",
+      "image": "https://akcdn.detik.net.id/visual/2021/06/25/ilustrasi-tv-digital-2_169.jpeg",
+      "description": "Cara mendapatkan siaran TV digital dengan antena biasa di TV analog",
+      "link": "https://masutarji.github.io/isinya/antenabiasa.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara setting TV digital",
+      "image": "https://surakarta.go.id/wp-content/uploads/2022/06/Screenshot_15.jpg",
+      "description": "Cara setting TV digital",
+      "link": "https://masutarji.github.io/isinya/carasetting.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Cari sinyal siaran TV digital",
+      "image": "https://asset.kompas.com/crops/b57BzMchPGmoNIbBqDa9rfcN3G0=/39x0:714x450/750x500/data/photo/2020/10/19/5f8d680509aee.jpg",
+      "description": "Mencari sinyal siaran TV digital ",
+      "link": "https://masutarji.github.io/isinya/carisinyal.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Faktor yang Menyebabkan TV Tidak Bisa Diakses",
+      "image": "https://siarandigital.kominfo.go.id/covers/BuhgLjOpK3XWNWXtso307l6PEnnrz6xIcvgtForW.jpg",
+      "description": "Faktor yang Menyebabkan TV Tidak Bisa",
+      "link": "https://masutarji.github.io/isinya/faktor.html"
+      }
+  ]
+}
