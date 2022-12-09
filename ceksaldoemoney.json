@@ -12,7 +12,7 @@
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
+      "switch_banner_natives_ads":"2",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -86,18 +86,18 @@
     {
       "id": 1,
       "name_category": "Panduan",
-      "title": "Cara Cek Saldo E Toll TapcashBNI",
-      "image": "https://pict.sindonews.net/dyn/620/content/2017/09/23/178/1242335/top-up-tapcash-bni-di-bawah-rp200-ribu-tidak-dikenakan-biaya-J2A-thumb.jpg",
-      "description": "Cara Cek Saldo E Toll TapcashBNI",
-      "link": "https://andromomu.github.io/mar/tapcashbni.html"
-    },
-    {
-      "id": 2,
-      "name_category": "Panduan",
       "title": "Cara Cek Saldo E Toll Flazz",
       "image": "https://www.sakudigital.com/wp-content/uploads/2020/04/Cara-Cek-Saldo-BCA-Flazz.jpg",
       "description": "Panduan Cara Cek Saldo E Toll Flazz",
       "link": "https://andromomu.github.io/mar/flazzbca.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Panduan",
+      "title": "Cara Cek Saldo E Toll TapcashBNI",
+      "image": "https://pict.sindonews.net/dyn/620/content/2017/09/23/178/1242335/top-up-tapcash-bni-di-bawah-rp200-ribu-tidak-dikenakan-biaya-J2A-thumb.jpg",
+      "description": "Cara Cek Saldo E Toll TapcashBNI",
+      "link": "https://andromomu.github.io/mar/tapcashbni.html"
     },
     {
       "id": 3,
