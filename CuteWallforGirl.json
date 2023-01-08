@@ -103,6 +103,20 @@
       "wallpaper_name": "Cute10",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/8a/d5/bf/8ad5bfca6ac8528f33c3cbd7fb404491.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Cute Wall",
+      "wallpaper_name": "Cute11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/a6/6e/a3a66ec4cb734e32758321ef19e53c23.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Cute Wall",
+      "wallpaper_name": "Cute12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/98/fc/88/98fc88a31758ece4c5ff6a4cc807f524.jpg"
     }
   ]
 }
