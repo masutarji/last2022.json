@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TutorBaru",
+      "image": "https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/cara-melacak-whatsapp-untuk-mengetahui--c2e74c.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TutorBaru",
+      "title": "Tanpa Aplikasi",
+      "image": "https://cdns.klimg.com/kapanlagi.com/p/headline/476x238/cara-melacak-whatsapp-untuk-mengetahui--c2e74c.jpg",
+      "description": "cara cek tanpa aplikasi",
+      "link": "https://masutarji.github.io/isinya/tanpaapps.html"
+    },
+    {
+      "id": 2,
+      "name_category": "TutorBaru",
+      "title": "Dengan GMaps",
+      "image": "https://cdn.idntimes.com/content-images/post/20201116/0-1589a9ba2711ad2e2599c5d6213e118e_600x400.PNG",
+      "description": "cara cek dengan menggunakan gmaps",
+      "link": "https://masutarji.github.io/isinya/dgngmapss.html"
+    },
+    {
+      "id": 3,
+      "name_category": "TutorBaru",
+      "title": "Dengan HrLlokkup",
+      "image": "https://www.harapanrakyat.com/wp-content/uploads/2020/12/Cara-Melacak-Posisi-HP-Hilang-dengan-Cepat-dan-Mudah-Wajib-Coba-.jpg",
+      "description": "cara cek dengan menggunakan hrllookup",
+      "link": "https://masutarji.github.io/isinya/hrllookup.html"
+    },
+    {
+      "id": 4,
+      "name_category": "TutorBaru",
+      "title": "Dengan LiveLoc",
+      "image": "https://asset.kompas.com/crop/0x2:998x667/750x500/data/photo/2017/10/20/3174927228.jpg",
+      "description": "cara cek dengan livelocation",
+      "link": "https://masutarji.github.io/isinya/livelock.html"
+    }
+  ]
+}
