@@ -1,0 +1,143 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Betta Fish",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/6e/6c/256e6c6ab68156eebd5bad34d9807ae9.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/6e/6c/256e6c6ab68156eebd5bad34d9807ae9.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/12/e3/b9/12e3b940012df46f2b50275d6d8117e9.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/12/86/67/128667472b5317900c6c9c9acf93ace1.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/8b/54/ae8b5470304da6ba911ac6443a2c3809.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/23/6f/2a/236f2a8f77ffe40e575d57d47d79b5d5.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/63/81/6d6381a24fb399a80ccaf0082cda60ab.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3f/f9/74/3ff97497c43f4ceb747c28ccb9776e6e.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/97/fd/48/97fd48da69fb46565b74e5db62628783.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/3c/b0/7a3cb0e4956712a25b1b8ea59eea0549.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/93/50/b893504dbb7b194aeedd7d45b10bb464.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/9d/0e/b69d0e0a149cad817a1e05b7e08d3ca9.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/93/50/b893504dbb7b194aeedd7d45b10bb464.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a0/42/3a/a0423a67f09dc120906c86524fcf6db6.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/af/18/db/af18dbd3632605d509886a8e2ea99e2d.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Betta Fish",
+      "wallpaper_name": "Betta15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/14/34/38/143438c724c1b8e659f236debaafb772.jpg"
+    }
+  ]
+}
