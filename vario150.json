@@ -1,0 +1,143 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Modif Motor",
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/f5/c7/d2f5c753a614b1f9316e2e6aff20b6a4.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/f5/c7/d2f5c753a614b1f9316e2e6aff20b6a4.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/cb/39/a5/cb39a5e0b71939d00f26302f19e582b4.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/87/4c/7f874c4681eaa722af3bbef4b08b0e6b.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/19/41/ad/1941ada59ac9cfee9c952a2ac034e977.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/eb/b9/b5ebb92373132a3d010d1b673420748f.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/76/84/40/76844099d243a8a8a0c105effa53cd06.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/c9/10/64/c91064c4b6d7edaefe0aa332d5671718.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/b0/a4/98/b0a498db8639ceb7ce44bb4b94199f21.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/8f/d0/ee/8fd0eeff38705fdd9a0577d7407e5cff.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/75/df/82/75df82e9f8151212b7349d8cbeb5cd01.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/79/a7/ce/79a7cefe75b7a0269df6e9e236e82bcb.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/c1/44/1c/c1441cf0fab5eda331ebd1d205f6e07a.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/1a/eb/a8/1aeba881a7688c766d87a545df05692f.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/f9/6d/1cf96d4215e30111b0d5910c66da7905.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Modif Motor",
+      "wallpaper_name": "Vario 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/236x/d2/4e/c7/d24ec7a0167503797e479d2150a6ba30.jpg"
+    }
+  ]
+}
