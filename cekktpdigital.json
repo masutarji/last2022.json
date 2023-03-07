@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -36,41 +36,41 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "IKD",
+      "image": "https://static.republika.co.id/uploads/images/xlarge/086462000-1676542838-1280-856.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "name_category": "IKD",
+      "title": "Apa itu KTP Digital",
+      "image": "https://static.republika.co.id/uploads/images/xlarge/086462000-1676542838-1280-856.jpg",
+      "description": "Pengertian KTP Digital",
       "link": "https://masutarji.github.io/isinya/penegertainktp.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "name_category": "IKD",
+      "title": "Kelebihan KTP Digital",
+      "image": "https://www.radarbandung.id/wp-content/uploads/2023/03/ktp.jpg",
+      "description": "Apa saja Kelebihan KTP Digital",
       "link": "https://masutarji.github.io/isinya/kelebihanktp.htm"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "name_category": "IKD",
+      "title": "Syarat  Membuat KTP Digital",
+      "image": "https://tangselpos.id/storage/2023/02/e-ktp-mau-diganti-ktp-digital-12022023-135443.jpg",
+      "description": "Apa saja Syarat  Membuat KTP Digital",
       "link": "https://masutarji.github.io/isinya/syaratktp.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "name_category": "IKD",
+      "title": "Cara Daftar KTP Digital",
+      "image": "http://www.harianbhirawa.co.id/wp-content/uploads/2023/02/20-1-Dispendukcapil-Tulungagung-Sisir-ASN-untuk-Aktifasi-KTP-Digital.jpg",
+      "description": "Panduan Cara Daftar KTP Digital",
       "link": "https://masutarji.github.io/isinya/carabuatktpdig.html"
     }
   ]
