@@ -49,7 +49,7 @@
       "title": "Telolet Basuri 2",
       "image": "https://dafunda.com/wp-content/uploads/2022/08/livery-bussid-hd-1.jpg",
       "link_mp3": "https://archive.org/download/basuri3/Basuri2.ogg",
-      "lyrics": "<p style="text-align: center;">Telolet Basuri Versi 2</p>" 
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 2</p>" 
     },
     {
       "id": 3,
@@ -57,7 +57,7 @@
       "title": "Telolet Basuri 3",
       "image": "https://img.esportsku.com/wp-content/uploads//2022/11/bussid-450x300.jpeg",
       "link_mp3": "https://archive.org/download/basuri3/basuri3.ogg",
-      "lyrics": "<p style="text-align: center;">Telolet Basuri Versi 3</p>"
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 3</p>"
     },
     {
       "id": 4,
@@ -65,7 +65,7 @@
       "title": "Telolet Basuri 4",
       "image": "https://bussimulator.id/wp-content/uploads/2016/12/hero-image.jpg",
       "link_mp3": "https://archive.org/download/basuri3/Basuri4.ogg",
-      "lyrics": "<p style="text-align: center;">Telolet Basuri Versi 4</p>"
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 4</p>"
     }
     ]
 }
