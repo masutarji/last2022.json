@@ -66,6 +66,46 @@
       "image": "https://bussimulator.id/wp-content/uploads/2016/12/hero-image.jpg",
       "link_mp3": "https://archive.org/download/basuri3/Basuri4.ogg",
       "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 4</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "Basuri V3",
+      "title": "Telolet Basuri 5",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/21/Livery-BUSSID-PO-Berkah-Bersaudara-Ar-Rasyid-1853160495.jpg",
+      "link_mp3": "https://archive.org/download/basuri-6/Basuri%206.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 5</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "Basuri V3",
+      "title": "Telolet Basuri 6",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/08/457108821.jpg",
+      "link_mp3": "https://archive.org/download/basuri-6/Basuri%207.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 6</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "Basuri V3",
+      "title": "Telolet Basuri 7",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/03/2506460400.jpg",
+      "link_mp3": "https://archive.org/download/basuri-6/Basuri%208.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 7</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "Basuri V3",
+      "title": "Telolet Basuri 8",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/08/457108821.jpg",
+      "link_mp3": "https://archive.org/download/basuri-6/Basuri%209.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 8</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "Basuri V3",
+      "title": "Telolet Basuri 9",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/15/731122509.png",
+      "link_mp3": "https://archive.org/download/basuri-6/Bsuri%2010.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Telolet Basuri Versi 9</p>"
     }
     ]
 }
