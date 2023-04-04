@@ -32,7 +32,12 @@
       "category": "Bulan Ramadhan",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan1.webp"
 
-    }
+    },
+    {
+      "category": "Idul Fitri",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri1.webp"
+
+    }   
   ],
 
   "Item": [
@@ -143,6 +148,42 @@
       "category": "Bulan Ramadhan",
       "title": "ramadhan 18",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan18.webp"
+    },
+    {
+      "id": 19,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 19",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri1.webp"
+    },
+    {
+      "id": 20,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 20",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri2.webp"
+    },
+    {
+      "id": 21,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 21",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri3.webp"
+    },
+    {
+      "id": 22,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 22",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri4.webp"
+    },
+    {
+      "id": 23,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 23",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri5.webp"
+    },
+    {
+      "id": 24,
+      "category": "Idul Fitri",
+      "title": "Idul Fitri 24",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri6.webp"
     }
 
   ]
