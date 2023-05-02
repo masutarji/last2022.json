@@ -36,14 +36,14 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "Weight Gain recipe",
+      "image": "https://skinnyms.com/wp-content/uploads/2013/02/Chocolate-Peanut-Butter-Protein-Smoothie.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Weight Gain recipe",
       "title": "Chocolate peanut butter shake with Greek yogurt",
       "image": "https://skinnyms.com/wp-content/uploads/2013/02/Chocolate-Peanut-Butter-Protein-Smoothie.jpg",
       "description": "Chocolate peanut butter shake with Greek yogurt recipe",
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Weight Gain recipe",
       "title": "Triple berry smoothie with egg whites",
       "image": "https://goop-img.com/wp-content/uploads/2020/04/LOWER-SUGAR-BREAKFAST-TRIPLE-BERRY-GINGER-SMOOTHIE-280-300x229.jpg",
       "description": "Triple berry smoothie with egg whites recipe",
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Weight Gain recipe",
       "title": "Green smoothie with Greek yogurt",
       "image": "https://totaste.com/wp-content/uploads/2021/03/greek-yogurt-protein-smoothie.jpeg",
       "description": "Green smoothie with Greek yogurt recipe",
@@ -67,7 +67,7 @@
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Weight Gain recipe",
       "title": "Coffee protein smoothie with whey protein",
       "image": "https://blogscdn.thehut.net/app/uploads/sites/478/2020/08/FEATURE-Iced-Coffee-Protein-Shakes_1597223925-1024x573.jpg",
       "description": "Coffee protein smoothie with whey protein recipe",
