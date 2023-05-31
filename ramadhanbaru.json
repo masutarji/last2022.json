@@ -29,197 +29,114 @@
   ],
      "Categories": [
     {
-      "category": "Bulan Ramadhan",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan1.webp"
+      "category": "Idul Adha",
+      "image_link": "https://frame.twibbonize.com/732039dc-9d69-452a-aa0b-e70a1a89ae39.png"
 
-    },
-    {
-      "category": "Idul Fitri",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri1.webp"
-
-    }   
+    } 
   ],
 
   "Item": [
     {
       "id": 1,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 1",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan1.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 1",
+      "image_link": "https://frame.twibbonize.com/732039dc-9d69-452a-aa0b-e70a1a89ae39.png"
     },
     {
       "id": 2,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 2",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan2.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 2",
+      "image_link": "https://frame.twibbonize.com/c5567816-c142-4c34-b72d-0c23428c595d.png"
     },
     {
       "id": 3,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 3",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan3.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 3",
+      "image_link": "https://frame.twibbonize.com/72fff5c3-2f86-4873-8940-f475efb5ca35.png"
     },
     {
       "id": 4,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 4",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan4.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 4",
+      "image_link": "https://frame.twibbonize.com/98b2e57d-7733-4710-a482-6545e9cb5238.png"
     },
     {
       "id": 5,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 5",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan5.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 5",
+      "image_link": "https://frame.twibbonize.com/030e512b-6542-44c1-93a4-d3250d3111f1.png"
     },
     {
       "id": 6,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 6",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan6.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 6",
+      "image_link": "https://frame.twibbonize.com/1aec4da5-caed-4890-a067-54008dc2bb93.png"
     },
     {
       "id": 7,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 7",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan7.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 7",
+      "image_link": "https://frame.twibbonize.com/2f9c4efb-c75b-4b31-9657-16677c3e0dea.png"
     },
     {
       "id": 8,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 8",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan8.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 8",
+      "image_link": "https://frame.twibbonize.com/b8551018-814e-41dd-9b42-43f5f5a7523c.png"
     },
     {
       "id": 9,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 9",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan9.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 9",
+      "image_link": "https://frame.twibbonize.com/4e31a7db-64b3-4d04-b9ca-b03e11b6f617.png"
     },
     {
       "id": 10,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 10",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan10.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 10",
+      "image_link": "https://frame.twibbonize.com/21291831-74e6-4e20-8c42-f2dfb3bacfda.png"
     },
     {
       "id": 11,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 1",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan11.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 11",
+      "image_link": "https://frame.twibbonize.com/8d386992-a274-430c-b778-cc755d1baa6e.png"
     },
     {
       "id": 12,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 2",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan12.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 12",
+      "image_link": "https://frame.twibbonize.com/ec508c9f-5544-4c08-8338-4313fae7bbfb.png"
     },
     {
       "id": 13,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 13",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan13.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 13",
+      "image_link": "https://frame.twibbonize.com/9adde20c-ea99-4812-beee-cb95b9170764.png"
     },
     {
       "id": 14,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 14",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan14.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 14",
+      "image_link": "https://frame.twibbonize.com/b1e9c624-8c55-4f49-b52b-9a8cf8a380d7.png"
     },
     {
       "id": 15,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 15",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan15.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 15",
+      "image_link": "https://frame.twibbonize.com/d2c120da-21a5-4937-81e5-f1e04048dfac.png"
     },
     {
       "id": 16,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 16",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan16.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 16",
+      "image_link": "https://frame.twibbonize.com/b00559a1-f3d9-4854-8c18-c66206a53f16.png"
     },
     {
       "id": 17,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 17",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan17.webp"
-    },
-    {
-      "id": 18,
-      "category": "Bulan Ramadhan",
-      "title": "ramadhan 18",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Ramadhan18.webp"
-    },
-    {
-      "id": 19,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 19",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri1.webp"
-    },
-    {
-      "id": 20,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 20",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri2.webp"
-    },
-    {
-      "id": 21,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 21",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri3.webp"
-    },
-    {
-      "id": 22,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 22",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri4.webp"
-    },
-    {
-      "id": 23,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 23",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri5.webp"
-    },
-    {
-      "id": 24,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 24",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri6.webp"
-    },
-    {
-      "id": 25,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 25",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri7.webp"
-    },
-    {
-      "id": 26,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 26",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri8.webp"
-    },
-    {
-      "id": 27,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 27",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri9.webp"
-    },
-    {
-      "id": 28,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 28",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri10.webp"
-    },
-    {
-      "id": 29,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 29",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri11.webp"
-    },
-    {
-      "id": 30,
-      "category": "Idul Fitri",
-      "title": "Idul Fitri 30",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/IdulFitri12.webp"
+      "category": "Idul Adha",
+      "title": "Idul Adha 17",
+      "image_link": "https://frame.twibbonize.com/c01a01a6-e979-4f4c-a0c8-9031f4c38ddf.png"
     }
 
   ]
