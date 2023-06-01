@@ -28,89 +28,53 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
-
+      "category": "cny",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     }
   ],
 
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "cny",
+      "title": "Chinese Costume1",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "cny",
+      "title": "Chinese Costume2",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "cny",
+      "title": "Chinese Costume3",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "cny",
+      "title": "Chinese Costume4",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "cny",
+      "title": "Chinese Costume5",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "cny",
+      "title": "Chinese Costume6",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
-    },
-    {
-      "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
-    },
-    {
-      "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
-    },
-    {
-      "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "cny",
+      "title": "Chinese Costume7",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     }
-
-
   ]
 }
