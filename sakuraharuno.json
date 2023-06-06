@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-       "select_main_ads": "ADMOB",
+       "select_main_ads": "STARTAPP",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-4941185249786037/6474773427x",
       "main_ads_intertitial":"ca-app-pub-4941185249786037/6386325277",
@@ -15,8 +15,8 @@
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"1",
       "interval_intertitial": 1,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"205705955",
+      "initialize_sdk_backup_ads":"205705955",
       "high_paying_keyword_1": "Insurance",
       "high_paying_keyword_2": "Education",
       "high_paying_keyword_3": "Banking",
