@@ -2,7 +2,7 @@
   "Ads": [
     {
        "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "47972247fe14c04a",
       "main_ads_intertitial":"06818a407fccfbc4",
       "main_ads_natives":"8b98fde36a0811ac",
@@ -16,8 +16,8 @@
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"1",
       "interval_intertitial": 1,
-      "initialize_sdk":"205926206",
-      "initialize_sdk_backup_ads":"205926206",
+      "initialize_sdk":"1a4d22fed",
+      "initialize_sdk_backup_ads":"1a4d22fed",
       "high_paying_keyword_1": "Insurance",
       "high_paying_keyword_2": "Education",
       "high_paying_keyword_3": "Banking",
