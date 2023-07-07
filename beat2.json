@@ -1,0 +1,146 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "47972247fe14c04a",
+      "main_ads_intertitial":"06818a407fccfbc4",
+      "main_ads_natives":"8b98fde36a0811ac",
+      "backup_ads_natives":"694784159007331_694801682338912",
+      "backup_ads_banner":"694784159007331_694784635673950",
+      "backup_ads_intertitial":"694784159007331_694801165672297",
+      "open_ads_admob":"ca-app-pub-4941185249786037/6800629294X",
+      "open_ads_alien":"NULL",
+      "open_ads_max":"c5682fa816f90c60",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"1a4d22fed",
+      "initialize_sdk_backup_ads":"1a4d22fed",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Education",
+      "high_paying_keyword_3": "Banking",
+      "high_paying_keyword_4": "Finance",
+      "high_paying_keyword_5": "Investing",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Beat Modif",
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/c0/3e/8dc03edf7078f254ec9dcf3d8dff6d9c.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/c0/3e/8dc03edf7078f254ec9dcf3d8dff6d9c.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/fc/84/f0fc84f755776c77a972e73a756d9d21.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/64/05/79640537d03a4e54cbca0fb43ccf99e9.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/8d/3f/ed8d3f254c4bad837310c36b7b9ecdc0.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/58/7f/a7587f15ae8550217ef7fde7e80bc162.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/16/c2/6b/16c26b610eee69524ac698fdfdd11bf4.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/35/10/b7/3510b7c8589f568099f91a79c14ff2fe.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/34/73/51/347351c70146e6e6a32af72f8e89d682.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/89/11/d5891160f5217b6bb3542c7b71dda9e3.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/27/47/cd/2747cdd5cee721043c5197f34a2533fe.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/64/05/79640537d03a4e54cbca0fb43ccf99e9.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/89/11/d5891160f5217b6bb3542c7b71dda9e3.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/dd/80/acdd805487f1d0b97274a292d471b78a.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/b0/ab/b3b0abf6c7d15053945e3fabbfe496a2.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Beat Modif",
+      "wallpaper_name": "Modif15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/e9/2a/b0e92a92d47981937a30d11b9c6831ef.jpg"
+    }
+  ]
+}
