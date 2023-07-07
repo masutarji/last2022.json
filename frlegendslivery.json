@@ -1,12 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "WORTISE",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"WORTISE",
-      "main_ads_banner": "6a350662-dc25-4ae7-822e-7351201757ac",
-      "main_ads_intertitial":"317fc577-a6d6-414c-8876-1c9f249a9879",
-      "main_ads_natives":"269ab5f5-c76a-4884-a644-faae9b4f7bdc",
-      "backup_ads_natives":"269ab5f5-c76a-4884-a644-faae9b4f7bdc",
+      "main_ads_banner": "ca-app-pub-4941185249786037/5815510131",
+      "main_ads_intertitial":"ca-app-pub-4941185249786037/5866129952",
+      "main_ads_natives":"ca-app-pub-4941185249786037/1926884943",
       "backup_ads_banner":"6a350662-dc25-4ae7-822e-7351201757ac",
       "backup_ads_intertitial":"317fc577-a6d6-414c-8876-1c9f249a9879",
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294X",
