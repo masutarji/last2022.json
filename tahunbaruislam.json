@@ -29,23 +29,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Tahun Baru Islam",
+      "image_link": "https://frame.twibbonize.com/2abb488b-d1bd-4368-a4e1-2b5e58339bcf.png"
 
     }
   ],
@@ -53,63 +38,63 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 1",
+      "image_link": "https://frame.twibbonize.com/2abb488b-d1bd-4368-a4e1-2b5e58339bcf.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 2",
+      "image_link": "https://frame.twibbonize.com/5e16d528-bc8d-4d55-9e3b-8b5d44098b81.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 3",
+      "image_link": "https://frame.twibbonize.com/83476f53-e028-472f-8e24-c01f5e9ec22b.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 4",
+      "image_link": "https://frame.twibbonize.com/2466792e-522b-43eb-b5aa-a7415dda46d5.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 5",
+      "image_link": "https://frame.twibbonize.com/267c8936-e4a5-4796-a3ce-a23d9e54af37.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 6",
+      "image_link": "https://frame.twibbonize.com/83053079-7b07-440d-8d1a-de7724f906f1.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 7",
+      "image_link": "https://frame.twibbonize.com/433876d9-030f-4f87-a137-c0ddf12fdeae.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 8",
+      "image_link": "https://frame.twibbonize.com/e7496fca-031c-4f0e-ac53-d27c96501ad4.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 9",
+      "image_link": "https://frame.twibbonize.com/123ab28f-cad2-4a72-b039-31e749433edb.png"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Tahun Baru Islam",
+      "title": "Frame 10",
+      "image_link": "https://frame.twibbonize.com/d6b27b3c-ef06-4951-996a-ecf89f577fb9.png"
     }
 
 
