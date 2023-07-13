@@ -17,11 +17,11 @@
       "interval_intertitial": 1,
       "initialize_sdk":"62ddf135-0c3c-4daa-abe0-25aaa7989d6c",
       "initialize_sdk_backup_ads":"62ddf135-0c3c-4daa-abe0-25aaa7989d6c",
-      "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Education",
-      "high_paying_keyword_3": "Banking",
-      "high_paying_keyword_4": "Finance",
-      "high_paying_keyword_5": "Investing",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
 
