@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "open_ads_max":"1a2f9dcba548dd5c",
       "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"0",
+      "on_off_native_listview":"1",
       "interval_intertitial": 1,
       "initialize_sdk":"1a506c63d",
       "initialize_sdk_backup_ads":"1a506c63d",
