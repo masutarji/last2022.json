@@ -29,8 +29,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Kemerdekaan",
-      "image_link": "https://frame.twibbonize.com/4ee0038d-6cb4-4149-a1f8-0ab41d22ff78.png"
+      "category": "Hari Sumpah Pemuda",
+      "image_link": "https://frame.twibbonize.com/a3f881ff-cc39-4792-9de2-99cea02c4ab2.png"
 
     }
   ],
@@ -38,93 +38,63 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 1",
-      "image_link": "https://asset.twibbonize.com/3f98a306-6f8a-4117-a327-371416949109_44ed8236-a5ab-47b0-94f0-5c74d38410fb.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 1",
+      "image_link": "https://frame.twibbonize.com/a3f881ff-cc39-4792-9de2-99cea02c4ab2.png"
     },
     {
       "id": 2,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 2",
-      "image_link": "https://asset.twibbonize.com/3f98a306-6f8a-4117-a327-371416949109_1e13110c-f8d5-4498-8644-e9f36d508106.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 2",
+      "image_link": "https://frame.twibbonize.com/184ac4f2-1971-4a82-a0d3-5e0b9a5881c1.png"
     },
     {
       "id": 3,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 3",
-      "image_link": "https://frame.twibbonize.com/337d51b7-6b42-44b2-9c5d-0edd06f4b393.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 3",
+      "image_link": "https://frame.twibbonize.com/051b79fc-80a2-42d1-a1ed-e1058d3f5c7c.png"
     },
     {
       "id": 4,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 4",
-      "image_link": "https://frame.twibbonize.com/4ee0038d-6cb4-4149-a1f8-0ab41d22ff78.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 4",
+      "image_link": "https://frame.twibbonize.com/184ac4f2-1971-4a82-a0d3-5e0b9a5881c1.png"
     },
     {
       "id": 5,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 5",
-      "image_link": "https://frame.twibbonize.com/65f76ded-7d31-485c-a8a3-98fe4b24bed5.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 5",
+      "image_link": "https://frame.twibbonize.com/088c5379-94e0-4e5e-a71f-02d2f05cbd91.png"
     },
     {
       "id": 6,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 6",
-      "image_link": "https://frame.twibbonize.com/c059b031-9d05-485a-b4bd-f28a59d118b3.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 6",
+      "image_link": "https://frame.twibbonize.com/ecd122d8-2616-4023-87fc-6d7796fd7594.png"
     },
     {
       "id": 7,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 7",
-      "image_link": "https://frame.twibbonize.com/61681bbd-c5dc-4996-abb5-fa6894a3e2a6.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 7",
+      "image_link": "https://frame.twibbonize.com/77e6208a-7bc1-4aae-adf8-610a275a4436.png"
     },
     {
       "id": 8,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 8",
-      "image_link": "https://frame.twibbonize.com/cb3d63ea-a5ec-4d89-9448-57213a834daf.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 8",
+      "image_link": "https://frame.twibbonize.com/196814ff-b3e2-4b6d-b42b-8ea634c36def.png"
     },
     {
       "id": 9,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 9",
-      "image_link": "https://frame.twibbonize.com/2885f5fe-de45-4130-bfe1-5076e026b818.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 9",
+      "image_link": "https://frame.twibbonize.com/91c62b57-4f46-45d2-8f85-9c5087d4413f.png"
     },
     {
       "id": 10,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 10",
-      "image_link": "https://frame.twibbonize.com/8c3d9764-8867-418c-81ec-ead06d4b061b.png"
-    },
-    {
-      "id": 11,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 11",
-      "image_link": "https://frame.twibbonize.com/24f2fa17-6444-4394-852f-72a702887bcb.png"
-    },
-    {
-      "id": 12,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 12",
-      "image_link": "https://frame.twibbonize.com/cc813186-d921-4c5c-a73d-47ade8817b2d.png"
-    },
-    {
-      "id": 13,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 13",
-      "image_link": "https://frame.twibbonize.com/d1af4648-53fe-4c31-ba86-be2c6187c2ea.png"
-    },
-    {
-      "id": 14,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 14",
-      "image_link": "https://frame.twibbonize.com/0cadc147-900f-4c91-a7cb-e4fa1c1f63d7.png"
-    },
-    {
-      "id": 15,
-      "category": "Hari Kemerdekaan",
-      "title": "Merdeka 15",
-      "image_link": "https://frame.twibbonize.com/8e55d0d6-3abc-4ae9-925e-e69aa4e52483.png"
+      "category": "Hari Sumpah Pemuda",
+      "title": "Pemuda 10",
+      "image_link": "https://frame.twibbonize.com/9cf92a01-0958-4894-96c5-d533eddf4abf.png"
     }
   ]
 }
