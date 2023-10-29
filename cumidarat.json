@@ -56,7 +56,7 @@
     {
       "title": "Innova Cumi Darat",
       "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-innova-cumi-darat.png",
-      "category": "Bus",
+      "category": "Mobil",
       "link_mods": "https://archive.org/download/Innovasopir/Innovasopir.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
@@ -64,15 +64,14 @@
       "link_livery2": "null"
     },
     {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
+      "title": "Pajero Sport Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-pajero-sport-cumi-darat.png",
+      "category": "Mobil",
       "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "Garuda Mas",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
-    },
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null
     {
       "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
       "image": "file:///android_asset/Ultimate.webp",
