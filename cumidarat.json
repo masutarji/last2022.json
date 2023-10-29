@@ -156,31 +156,6 @@
   ],
   "Audio": [
     {
-      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
-      "name": "Santri Njoso",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
-    },
-    {
-      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
-    },
-    {
-      "title_mp3": "Do'a Rajab",
-      "name": "Alfina Nindiyani",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
-    },
-    {
-      "title_mp3": "Allahul kaafi",
-      "name": "Bebiraira Channel",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
-    },
-    {
-      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
-      "name": "Shatibiyyah Studio",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
-    },
-    {
       "title_mp3": "Train Horn",
       "name": "Zedge",
       "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
@@ -200,42 +175,6 @@
     {
       "title_radio": "Rodja 756 AM",
       "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
-    },
-    {
-      "title_radio": "Suara Al-Iman 846 AM",
-      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
-    },
-    {
-      "title_radio": "Tarbiyah Sunnah 1476 AM",
-      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
-    },
-    {
-      "title_radio": "kalam FM 100.6 Mhz",
-      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
-    },
-    {
-      "title_radio": "Mutiara Qu'an 1170 am",
-      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
-    },
-    {
-      "title_radio": "Hidayah 103,4 FM",
-      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
-    },
-    {
-      "title_radio": "Madinah FM 107,7 Mhz",
-      "url_radio": "https://radioislamindonesia.com/radiomadinah.mp3"
-    },
-    {
-      "title_radio": "Muadz 94.3 FM",
-      "url_radio": "https://radioislamindonesia.com/radiomuadz.mp3"
-    },
-    {
-      "title_radio": "Shahabat Muslim 107.7 FM",
-      "url_radio": "https://radioislamindonesia.com/shahabatmuslim.mp3"
-    },
-    {
-      "title_radio": "SKN Al-Bayaan 95 FM",
-      "url_radio": "https://server-s5.xajist.com/sslstream/8526/"
     }
   ]
 }
