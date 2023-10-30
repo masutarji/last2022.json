@@ -178,8 +178,12 @@
   ],
   "Radio": [
     {
-      "title_radio": "Rodja 756 AM",
-      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+      "title_radio": "Prambors FM 102.2 Jakarta",
+      "url_radio": "http://masima.rastream.com/masima-pramborsjakarta"
+    },
+    {
+      "title_radio": "101 Jak FM",
+      "url_radio": "http://103.246.184.34:8000/jak"
     }
   ]
 }
