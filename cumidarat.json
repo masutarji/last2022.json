@@ -26,6 +26,11 @@
     }
   ],
   "Maps": [
+        {
+      "name_map": "Sitinjau Lauik",
+      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-sitinjau-lauik.png",
+      "map_url": "https://archive.org/download/sitinjaulauik/sitinjaulauik.bussidmod"
+    },
     {
       "name_map": "Tol Trans Jawa v2 by X Play Kembar",
       "view_map": "file:///android_asset/tol.webp",
@@ -47,8 +52,8 @@
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
     },
     {
-      "name_map": "Poris – Pemalang v1 by Fergiawan CH",
-      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.webp",
+      "name_map": "Kelok 44",
+      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-kelok-44.png",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
     }
   ],
@@ -74,40 +79,40 @@
       "link_livery2": "null"
     },  
     {
-      "title": "SR3 XHD Prime Ultimate by MN Art x BFC",
-      "image": "file:///android_asset/Ultimate.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/SR3.bussidmod",
-      "name_livery": "Rosalia Indah",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rosalia.png",
+      "title": "Toyota Land Cruiser 300 GR Sport",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Mod-BUSSID-Toyota-Land-Cruiser-300-GR-Sport-2022-1.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/Landcruiser/Landcruiser.bussidmod",
+      "name_livery": "Land Cruiser",
+      "link_livery": "https://archive.org/download/landcruiser_202310/Landcruiser.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "Canter Ghaisan by Andry Azhari",
-      "image": "file:///android_asset/Ghaisan.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.bussidmod",
-      "name_livery": "Rosalia",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Restollia.png",
-      "name_livery2": "Ghaisan",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Ghaisan.png"
-    },
-    {
-      "title": "Truck Isuzu Deca Bak Dropside by SJA Official",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.webp",
-      "category": "Truk",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
-      "name_livery": "Deca Bak V1",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak1.png",
-      "name_livery2": "Deca Bak V2",
-      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak2.png"
-    },
-    {
-      "title": "Nissan Skyline GT-R R34 Paul Walker by NGR cvt MAH",
-      "image": "file:///android_asset/Skyline.webp",
+      "title": "Toyota Fortuner GR Sport",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Download-Mod-Bussid-Toyota-Fortuner-GR-Sport-Surabaya-Style.png",
       "category": "Mobil",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Deca Bak.bussidmod",
+      "link_mods": "https://archive.org/download/toyotafortuner_202310/toyotafortuner.bussidmod",
+      "name_livery": "Fortuner GR Sport",
+      "link_livery": "https://archive.org/download/fortuner/fortuner.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Mitsubishi Triton Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/mod-bussid-mitsubishi-triton-cumi-darat-1.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/triton_202310/triton.bussidmod",
+      "name_livery": "Mitsubishi Triton",
+      "link_livery": "https://archive.org/download/triton_20231030/triton.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Pajero Sport Dakar Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Mod-Bussid-Mitsubishi-Pajero-Sport-Dakar-Cumi-Darat.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/pakjerodakar/pakjerodakar.bussidmod",
       "name_livery": "null",
       "link_livery": "null",
       "name_livery2": "null",
