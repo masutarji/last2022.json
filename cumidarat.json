@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -26,10 +26,20 @@
     }
   ],
   "Maps": [
-        {
+       {
+      "name_map": "Kelok 44",
+      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-kelok-44.png",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
+    },
+            {
       "name_map": "Sitinjau Lauik",
       "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-sitinjau-lauik.png",
       "map_url": "https://archive.org/download/sitinjaulauik/sitinjaulauik.bussidmod"
+    },
+    {
+      "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
+      "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
+      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
     },
     {
       "name_map": "Tol Trans Jawa v2 by X Play Kembar",
@@ -50,24 +60,9 @@
       "name_map": "Bukit Bintang (Jalur Terjal Ekstrim) by Amdroid 93 Channel",
       "view_map": "https://aliendro.id/uploads/demo/premiumbussid/bukit.webp",
       "map_url": "https://aliendro.id/uploads/demo/premiumbussid/bukit.bussidmod"
-    },
-    {
-      "name_map": "Kelok 44",
-      "view_map": "https://modbussidterbaru.com/wp-content/uploads/2023/05/Download-Mod-Map-Bussid-kelok-44.png",
-      "map_url": "https://aliendro.id/uploads/demo/premiumbussid/pemalang.bussidmod"
     }
   ],
   "Mods": [
-    {
-      "title": "Innova Cumi Darat",
-      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-innova-cumi-darat.png",
-      "category": "Mobil",
-      "link_mods": "https://archive.org/download/Innovasopir/Innovasopir.bussidmod",
-      "name_livery": "null",
-      "link_livery": "null",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
     {
       "title": "Pajero Sport Cumi Darat",
       "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-pajero-sport-cumi-darat.png",
@@ -78,6 +73,16 @@
       "name_livery2": "null",
       "link_livery2": "null"
     },  
+       {
+      "title": "Innova Cumi Darat",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/09/mod-bussid-mobil-innova-cumi-darat.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/Innovasopir/Innovasopir.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
     {
       "title": "Toyota Land Cruiser 300 GR Sport",
       "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Mod-BUSSID-Toyota-Land-Cruiser-300-GR-Sport-2022-1.png",
@@ -89,22 +94,22 @@
       "link_livery2": "null"
     },
     {
-      "title": "Toyota Fortuner GR Sport",
-      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Download-Mod-Bussid-Toyota-Fortuner-GR-Sport-Surabaya-Style.png",
-      "category": "Mobil",
-      "link_mods": "https://archive.org/download/toyotafortuner_202310/toyotafortuner.bussidmod",
-      "name_livery": "Fortuner GR Sport",
-      "link_livery": "https://archive.org/download/fortuner/fortuner.png",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
-    {
       "title": "Mitsubishi Triton Cumi Darat",
       "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/mod-bussid-mitsubishi-triton-cumi-darat-1.png",
       "category": "Mobil",
       "link_mods": "https://archive.org/download/triton_202310/triton.bussidmod",
       "name_livery": "Mitsubishi Triton",
       "link_livery": "https://archive.org/download/triton_20231030/triton.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+       {
+      "title": "Toyota Fortuner GR Sport",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/10/Download-Mod-Bussid-Toyota-Fortuner-GR-Sport-Surabaya-Style.png",
+      "category": "Mobil",
+      "link_mods": "https://archive.org/download/toyotafortuner_202310/toyotafortuner.bussidmod",
+      "name_livery": "Fortuner GR Sport",
+      "link_livery": "https://archive.org/download/fortuner/fortuner.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
@@ -157,33 +162,6 @@
       "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
       "name_livery2": "null",
       "link_livery2": "null"
-    }
-  ],
-  "Audio": [
-    {
-      "title_mp3": "Train Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
-    },
-    {
-      "title_mp3": "Dixie Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
-    },
-    {
-      "title_mp3": "Clown Horn",
-      "name": "Zedge",
-      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
-    }
-  ],
-  "Radio": [
-    {
-      "title_radio": "Prambors FM 102.2 Jakarta",
-      "url_radio": "http://masima.rastream.com/masima-pramborsjakarta"
-    },
-    {
-      "title_radio": "101 Jak FM",
-      "url_radio": "http://103.246.184.34:8000/jak"
     }
   ]
 }
