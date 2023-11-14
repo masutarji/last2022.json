@@ -53,6 +53,16 @@
     }
   ],
   "Mods": [
+        {
+      "title": "SR3 XHD Prime Ultimate Mercy 1836 by MN Art x KP Projects",
+      "image": "file:///android_asset/Prime.webp",
+      "category": "Bus",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Prime.bussidmod",
+      "name_livery": "PO Haryanto",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Haryanto.png",
+      "name_livery2": "Garuda Mas",
+      "link_livery2": "https://aliendro.id/uploads/demo/premiumbussid/Garuda.png"
+    },
     {
       "title": "Mahendra JB5 Hino",
       "image": "https://iili.io/JHvduCG.jpg",
