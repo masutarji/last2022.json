@@ -58,13 +58,7 @@
       "image": "https://iili.io/JHvduCG.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
-      "link_livery": "https://rame1.maybusid.my.id/mod/liv/MAHENDRA%20TRANSPORT%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
-    },
-    {
-      "title": "Mahendra JB5 Hino",
-      "image": "https://iili.io/JHvduCG.jpg",
-       "category": "Bus",
-      "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Mahendra",
       "link_livery": "https://rame1.maybusid.my.id/mod/liv/MAHENDRA%20TRANSPORT%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
@@ -72,6 +66,7 @@
       "image": "https://iili.io/JHvdBYN.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Sinar Jaya",
       "link_livery": "https://rame1.maybusid.my.id/mod/liv/SINAR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
@@ -79,6 +74,7 @@
       "image": "https://iili.io/JHvJb2V.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
       "link_livery": "https://rame1.maybusid.my.id/mod/liv/27%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
@@ -86,6 +82,7 @@
       "image": "https://iili.io/JqhSZpn.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Subur Jaya",
       "link_livery": "https://mapes.maybusid.my.id/mod/liv/SUBUR%20JAYA%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
@@ -93,6 +90,7 @@
       "image": "https://iili.io/JqhSbhG.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
+      "name_livery": "Trans JB5",
       "link_livery": "https://mapes.maybusid.my.id/mod/liv/NAFIT%20TRANS%20MOD%20JB5%20TRYIO%20DIECASTER%20BY%20GARASI%20TUBE.png"
     },
     {
@@ -100,6 +98,7 @@
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/73.jpg",
       "category": "Bus",
       "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB2%20TRONTON%20SCANIA%20K410IB%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "name_livery": "null",
       "link_livery": "null"
     },
     {
@@ -107,6 +106,7 @@
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/74.jpg",
        "category": "Bus",
       "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20TRONTON%20VOLVO%20B11R.bussidmod",
+      "name_livery": "Tronton Volvo",
       "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SCANIA%20K410%20JRG%20-%20GRONK.png"
     },
     {
@@ -114,6 +114,7 @@
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/75.jpg",
       "category": "Bus",
       "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JB3%2B%20SHD%20HINO%20RK.bussidmod",
+      "name_livery": "JRG JB3",
       "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/HINO%20UPDATE%20AF%20JRG%20-%20GRONK.png"
     },
     {
@@ -121,6 +122,7 @@
       "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/76.jpg",
       "category": "Bus",
       "link_mods": "https://ia904709.us.archive.org/21/items/wakicawcaaw/K410%20SG.bussidmod",
+      "name_livery": "JRG",
       "link_livery": "https://ia904709.us.archive.org/21/items/wakicawcaaw/JRG%20Single%20Glass%20by%20Blahbloh.png"
     }
   ]
