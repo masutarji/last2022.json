@@ -63,16 +63,7 @@
       "name_livery2": "null",
       "link_livery2": "null"
     },
-    {
-      "title": "Mercedes-Benz 1521 AC by Faridh Madyawan",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.webp",
-      "category": "Bus",
-      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Mercedes.bussidmod",
-      "name_livery": "Rajawali",
-      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/Rajawali.png",
-      "name_livery2": "null",
-      "link_livery2": "null"
-    },
+
     {
       "title": "Sinar Jaya JB5 Hino",
       "image": "https://iili.io/JHvdBYN.jpg",
@@ -85,7 +76,7 @@
     },
     {
       "title": "27 Trans JB5 Hino",
-      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "image": "https://iili.io/JHvJb2V.jpg",
       "category": "Bus",
       "link_mods": "https://ia800505.us.archive.org/15/items/awmakanosika/JB5%20VAR%20HINO.bussidmod",
       "name_livery": "Trans JB5",
