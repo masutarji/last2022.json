@@ -10,7 +10,7 @@
       "backup_ads_banner":"ca-app-pub-4941185249786037/1058257803",
       "backup_ads_intertitial":"ca-app-pub-4941185249786037/1608922149",
       "open_ads_admob":"ca-app-pub-4941185249786037/3816814637",
-      "open_ads_alien":"",
+      "open_ads_alien":"null",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "interval_intertitial": 1,
