@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-       "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"STARTAPP",
+       "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"FACEBOOK",
       "main_ads_banner": "68bff8462a4d4ed6",
       "main_ads_intertitial":"32b30492882b1af7",
       "main_ads_natives":"40c3576f03e2e1dd",
-      "backup_ads_natives":"NULL",
-      "backup_ads_banner":"ca-app-pub-4941185249786037/6805408502x",
-      "backup_ads_intertitial":"ca-app-pub-4941185249786037/4719953608",
+      "backup_ads_natives":"695861818744105_695862598744027",
+      "backup_ads_banner":"695861818744105_695862475410706",
+      "backup_ads_intertitial":"695861818744105_695862555410698",
      "switch_banner_natives_ads":"1",
       "on_off_native_listview":"0",
       "interval_intertitial": 1,
