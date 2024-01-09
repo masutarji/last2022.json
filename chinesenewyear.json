@@ -29,7 +29,7 @@
      "Categories": [
     {
       "category": "cny",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
+      "image_link": "https://frame.twibbonize.com/ae6e32c6-df6e-4f52-8020-4a9d4b4df321.png"
     }
   ],
 
@@ -37,44 +37,86 @@
     {
       "id": 1,
       "category": "cny",
+      "title": "Chinese New Year1",
+      "image_link": "https://frame.twibbonize.com/ae6e32c6-df6e-4f52-8020-4a9d4b4df321.png"
+    },
+    {
+      "id": 2,
+      "category": "cny",
+      "title": "Chinese New Year2",
+      "image_link": "https://frame.twibbonize.com/3c7491df-9ed4-4ad0-a34e-6fc3e300753e.png"
+    },
+    {
+      "id": 3,
+      "category": "cny",
+      "title": "Chinese New Year3",
+      "image_link": "https://frame.twibbonize.com/c1f6fa7c-7544-4a9f-9c69-e10d66ed14ae.png"
+    },
+    {
+      "id": 4,
+      "category": "cny",
+      "title": "Chinese New Year4",
+      "image_link": "https://frame.twibbonize.com/0f339c04-a14a-4ccd-b475-a66193b9f371.png"
+    },
+    {
+      "id": 5,
+      "category": "cny",
+      "title": "Chinese New Year5",
+      "image_link": "https://frame.twibbonize.com/99576851-9ffe-4c42-bcde-93b1a5302f8f.png"
+    },
+    {
+      "id": 6,
+      "category": "cny",
+      "title": "Chinese New Year6",
+      "image_link": "https://frame.twibbonize.com/3b28c246-06f8-444a-a4a2-2e1af14c3340.png"
+    },
+    {
+      "id": 7,
+      "category": "cny",
+      "title": "Chinese New Year7",
+      "image_link": "https://frame.twibbonize.com/9c9b5e11-30ff-4c39-845f-4f8ffe8f4df9.png"
+    },
+	 {
+      "id": 8,
+      "category": "cny",
       "title": "Chinese Costume1",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 2,
+      "id": 9,
       "category": "cny",
       "title": "Chinese Costume2",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 3,
+      "id": 10,
       "category": "cny",
       "title": "Chinese Costume3",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 4,
+      "id": 11,
       "category": "cny",
       "title": "Chinese Costume4",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 5,
+      "id": 12,
       "category": "cny",
       "title": "Chinese Costume5",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 6,
+      "id": 13,
       "category": "cny",
       "title": "Chinese Costume6",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     },
     {
-      "id": 7,
+      "id": 14,
       "category": "cny",
       "title": "Chinese Costume7",
       "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/cina1.webp"
     }
   ]
-}
+} 
