@@ -1,16 +1,16 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "ALIEN-M",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "889443325889457_889443859222737",
-      "main_ads_intertitial":"889443325889457_889443925889397",
-      "main_ads_natives":"889443325889457_889443955889394",
+      "main_ads_banner": "0a454b026e34fab6ccc3a21449cda4b3d7348611",
+      "main_ads_intertitial":"005d21203cefe9522fbf4d9e1c569e9fe42d1574",
+      "main_ads_natives":"42c841a6b02bf70d7ac6daa1e89dc7695c3dc4b6",
       "backup_ads_natives":"ca-app-pub-4941185249786037/9015841082",
       "backup_ads_banner":"ca-app-pub-4941185249786037/8031746688",
       "backup_ads_intertitial":"ca-app-pub-4941185249786037/2697064495",
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "open_ads_alien":"NULL",
+      "open_ads_alien":"a022dfa1b630cefe416057603629007012b3e7f6",
       "open_ads_max":"2250c00d13d15e8c",
       "open_ads_wortise":"7f12316c-3e67-4e74-a175-91ff2934ec19",
       "interval_intertitial": 1,
