@@ -3,14 +3,14 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-4941185249786037/6088452506",
+      "main_ads_intertitial":"ca-app-pub-4941185249786037/2524612012",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-4941185249786037/3510390624",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -25,23 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Isra Miraj",
+      "image_link": "https://frame.twibbonize.com/b505aa77-1b67-4083-b46b-a6749fa31aaa.png"
 
     }
   ],
@@ -49,63 +34,63 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai1",
+      "image_link": "https://frame.twibbonize.com/9ee1e69b-a542-40a4-b787-5da9863bbe38.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai2",
+      "image_link": "https://frame.twibbonize.com/9f8d231f-b364-464c-a0cc-01a244e8360c.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Isra Miraj",
+      "title": "Bingkai3",
+      "image_link": "https://frame.twibbonize.com/2254a77b-49cb-4ec8-82f9-090d3d27957a.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Isra Miraj",
+      "title": "Bingkai4",
+      "image_link": "https://frame.twibbonize.com/b079fe2c-3192-4314-8c6b-28cca6c6ca7d.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Isra Miraj",
+      "title": "Bingkai5",
+      "image_link": "https://frame.twibbonize.com/186f64d4-306b-46de-8fee-fc8a715dd70b.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai6",
+      "image_link": "https://frame.twibbonize.com/c252ac9b-99e4-4150-a039-65768c2f30be.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai7",
+      "image_link": "https://frame.twibbonize.com/989a3f62-bcee-43d7-8e74-049e040433a3.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai8",
+      "image_link": "https://frame.twibbonize.com/33b2365c-e2ce-452f-8335-e280f68d8dfc.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai9",
+      "image_link": "https://frame.twibbonize.com/a334afe2-6bcc-4205-964f-21c24ffa6ad3.png"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Isra Miraj",
+      "title": "Bingkai10",
+      "image_link": "https://frame.twibbonize.com/a95e0c49-6a7f-4721-ad10-5731df851604.png"
     }
 
 
