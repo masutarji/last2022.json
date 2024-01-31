@@ -29,72 +29,83 @@
   ],
      "Categories": [
     {
-      "category": "New Year",
-      "image_link": "https://frame.twibbonize.com/b8e94c8a-99a6-49a6-a875-dc94539bb7e5.png"
-
+      "category": "Prabowo",
+      "image_link": "https://frame.twibbonize.com/9db0efe5-b725-40e2-992c-de2f82144551.png"
+    },
+    {
+      "category": "Anies",
+      "image_link": "https://frame.twibbonize.com/727f00a6-49c6-4b35-a85d-b99d4ce42a20.png"
+    },
+    {
+      "category": "Ganjar",
+      "image_link": "https://frame.twibbonize.com/567a0e35-748e-4439-9632-f451acb807e2.png"
+    },
+    {
+      "category": "Pemilu Damai",
+      "image_link": "https://frame.twibbonize.com/ea500251-48c3-4d4c-9765-dc5ff446e25b.png"
     }
   ],
 
   "Item": [
     {
       "id": 1,
-      "category": "New Year",
-      "title": "Tahun baru 1",
-      "image_link": "https://frame.twibbonize.com/b8e94c8a-99a6-49a6-a875-dc94539bb7e5.png"
+      "category": "Prabowo",
+      "title": "Pemilu 1",
+      "image_link": "https://frame.twibbonize.com/9db0efe5-b725-40e2-992c-de2f82144551.png"
     },
     {
       "id": 2,
-      "category": "New Year",
-      "title": "Tahun baru 2",
-      "image_link": "https://frame.twibbonize.com/d22677c1-1c5b-452f-bce4-150a23926881.png"
+      "category": "Anies",
+      "title": "Pemilu 2",
+      "image_link": "https://frame.twibbonize.com/727f00a6-49c6-4b35-a85d-b99d4ce42a20.png"
     },
     {
       "id": 3,
-      "category": "New Year",
-      "title": "Tahun baru 3",
-      "image_link": "https://frame.twibbonize.com/c6918968-fb5b-4c1a-b8a3-2c003e48a33d.png"
+      "category": "Ganjar",
+      "title": "Pemilu 3",
+      "image_link": "https://frame.twibbonize.com/567a0e35-748e-4439-9632-f451acb807e2.png"
     },
     {
       "id": 4,
-      "category": "New Year",
-      "title": "Tahun baru 4",
-      "image_link": "https://frame.twibbonize.com/a5c02254-fb44-4577-a0b2-5e5f081326a6.png"
+      "category": "Prabowo",
+      "title": "Pemilu 4",
+      "image_link": "https://frame.twibbonize.com/50cdac4d-4b73-47d1-8674-1ec34145795c.png"
     },
     {
       "id": 5,
-      "category": "New Year",
-      "title": "Tahun baru 5",
-      "image_link": "https://frame.twibbonize.com/568bcccf-e881-46ce-85a3-26871aebd1a4.png"
+      "category": "Anies",
+      "title": "Pemilu 5",
+      "image_link": "https://frame.twibbonize.com/817f7dc7-7df4-4f39-9abc-c772cce30b4a.png"
     },
     {
       "id": 6,
-      "category": "New Year",
-      "title": "Tahun baru 6",
-      "image_link": "https://frame.twibbonize.com/1be30e66-5656-4d5c-9448-cd833408cfbc.png"
+      "category": "Ganjar",
+      "title": "Pemilu 6",
+      "image_link": "https://frame.twibbonize.com/b1962e85-677e-4e85-a11c-2acc7d60dd2a.png"
     },
     {
       "id": 7,
-      "category": "New Year",
-      "title": "Tahun baru 7",
-      "image_link": "https://frame.twibbonize.com/2ce886af-4d9d-4948-8b03-041f00adbd18.png"
+      "category": "Prabowo",
+      "title": "Pemilu 7",
+      "image_link": "https://frame.twibbonize.com/f94a272c-e1fb-40c1-b9b9-eece25edd400.png"
     },
     {
       "id": 8,
-      "category": "New Year",
-      "title": "Tahun baru 8",
-      "image_link": "https://frame.twibbonize.com/2389dcb9-df09-478f-8b37-ba5fb279d23d.png"
+      "category": "Anies",
+      "title": "Pemilu 8",
+      "image_link": "https://frame.twibbonize.com/acf4566f-c088-46ad-a763-7ccbc0897fa5.png"
     },
     {
       "id": 9,
-      "category": "New Year",
-      "title": "Tahun baru 9",
-      "image_link": "https://frame.twibbonize.com/ea56cc45-54d5-4954-996c-0d3af84ae28e.png"
+      "category": "Ganjar",
+      "title": "Pemilu 9",
+      "image_link": "https://frame.twibbonize.com/a866c4f6-f449-4188-b902-a224cee5399a.png"
     },
     {
       "id": 10,
-      "category": "New Year",
-      "title": "Tahun baru 10",
-      "image_link": "https://frame.twibbonize.com/e1fe61ad-c111-44d6-9709-b2cfae943657.png"
+      "category": "Pemilu Damai",
+      "title": "Pemilu 10",
+      "image_link": "https://frame.twibbonize.com/ea500251-48c3-4d4c-9765-dc5ff446e25b.png"
     }
   ]
 }
