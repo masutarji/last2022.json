@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "2868425406633803_2868427039966973",
-      "main_ads_intertitial":"2868425406633803_2868427093300301",
-      "main_ads_natives":"2868425406633803_2868427146633629",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "87483809deeb4d13",
+      "main_ads_intertitial":"5ea59615a552d70e",
+      "main_ads_natives":"657ac52291ddda39",
       "backup_ads_natives":"2868425406633803_2868427146633629",
       "backup_ads_banner":"2868425406633803_2868427039966973",
       "backup_ads_intertitial":"2868425406633803_2868427093300301",
@@ -14,8 +14,8 @@
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "interval_intertitial": 1,
-      "initialize_sdk":"211436072",
-      "initialize_sdk_backup_ads":"211436072",
+      "initialize_sdk":"201133705",
+      "initialize_sdk_backup_ads":"201133705",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
