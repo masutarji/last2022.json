@@ -10,7 +10,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -25,8 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Dress",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image1.webp"
+      "category": "Frame",
+      "image_link": "https://frame.twibbonize.com/c1a634c1-c817-4347-9c8c-382096aa3492.png"
 
     }
   ],
@@ -34,111 +34,63 @@
   "Item": [
     {
       "id": 1,
-      "category": "Dress",
-      "title": "Weddress1",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image1.webp"
+      "category": "Frame",
+      "title": "Valentine1",
+      "image_link": "https://frame.twibbonize.com/c1a634c1-c817-4347-9c8c-382096aa3492.png"
     },
     {
       "id": 2,
-      "category": "Dress",
-      "title": "Weddress2",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image2.webp"
+      "category": "Frame",
+      "title": "Valentine2",
+      "image_link": "https://frame.twibbonize.com/8f89dfce-3e9c-474f-a346-cbb86a607015.png"
     },
     {
       "id": 3,
-      "category": "Dress",
-      "title": "Weddress3",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image3.webp"
+      "category": "Frame",
+      "title": "Valentine3",
+      "image_link": "https://frame.twibbonize.com/203a25c1-3363-461d-a2c4-53a92f0d181d.png"
     },
     {
       "id": 4,
-      "category": "Dress",
-      "title": "Weddress4",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image4.webp"
+      "category": "Frame",
+      "title": "Valentine4",
+      "image_link": "https://frame.twibbonize.com/69dd4472-9985-463c-a3ad-022ffc5453e1.png"
     },
     {
       "id": 5,
-      "category": "Dress",
-      "title": "Weddress5",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image5.webp"
+      "category": "Frame",
+      "title": "Valentine5",
+      "image_link": "https://frame.twibbonize.com/f78481a9-56f1-4275-8344-c262f4fee9fc.png"
     },
     {
       "id": 6,
-      "category": "Dress",
-      "title": "Weddress6",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image6.webp"
+      "category": "Frame",
+      "title": "Valentine6",
+      "image_link": "https://frame.twibbonize.com/8f8b3582-2960-47a1-bc41-e0eae1c3ac73.png"
     },
     {
       "id": 7,
-      "category": "Dress",
-      "title": "Weddress7",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image7.webp"
+      "category": "Frame",
+      "title": "Valentine7",
+      "image_link": "https://frame.twibbonize.com/159282ba-8713-4d48-af4a-a3cc86403e29.png"
     },
     {
       "id": 8,
-      "category": "Dress",
-      "title": "Weddress8",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image8.webp"
+      "category": "Frame",
+      "title": "Valentine8",
+      "image_link": "https://frame.twibbonize.com/6f358506-67b9-4c7d-ac3b-6b0728f81672.png"
     },
     {
       "id": 9,
-      "category": "Dress",
-      "title": "Weddress9",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image9.webp"
+      "category": "Frame",
+      "title": "Valentine9",
+      "image_link": "https://frame.twibbonize.com/1f67f433-7f14-4655-873f-7e19a48e4a54.png"
     },
     {
       "id": 10,
-      "category": "Dress",
-      "title": "Weddress10",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image10.webp"
-    },
-	{
-      "id": 11,
-      "category": "Dress",
-      "title": "Weddress1",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image11.webp"
-    },
-    {
-      "id": 2,
-      "category": "Dress",
-      "title": "Weddress12",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image12.webp"
-    },
-    {
-      "id": 3,
-      "category": "Dress",
-      "title": "Weddress13",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image13.webp"
-    },
-    {
-      "id": 4,
-      "category": "Dress",
-      "title": "Weddress14",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image14.webp"
-    },
-    {
-      "id": 5,
-      "category": "Dress",
-      "title": "Weddress15",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image15.webp"
-    },
-    {
-      "id": 6,
-      "category": "Dress",
-      "title": "Weddress16",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image16.webp"
-    },
-    {
-      "id": 7,
-      "category": "Dress",
-      "title": "Weddress17",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image17.webp"
-    },
-    {
-      "id": 8,
-      "category": "Dress",
-      "title": "Weddress18",
-      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image18.webp"
+      "category": "Frame",
+      "title": "Valentine10",
+      "image_link": "https://frame.twibbonize.com/36658e26-7c3f-4b97-8d9c-f94a17cab43b.png"
     }
   ]
 }
