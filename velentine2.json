@@ -1,0 +1,144 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Dress",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image1.webp"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Dress",
+      "title": "Weddress1",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image1.webp"
+    },
+    {
+      "id": 2,
+      "category": "Dress",
+      "title": "Weddress2",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image2.webp"
+    },
+    {
+      "id": 3,
+      "category": "Dress",
+      "title": "Weddress3",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image3.webp"
+    },
+    {
+      "id": 4,
+      "category": "Dress",
+      "title": "Weddress4",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image4.webp"
+    },
+    {
+      "id": 5,
+      "category": "Dress",
+      "title": "Weddress5",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image5.webp"
+    },
+    {
+      "id": 6,
+      "category": "Dress",
+      "title": "Weddress6",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image6.webp"
+    },
+    {
+      "id": 7,
+      "category": "Dress",
+      "title": "Weddress7",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image7.webp"
+    },
+    {
+      "id": 8,
+      "category": "Dress",
+      "title": "Weddress8",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image8.webp"
+    },
+    {
+      "id": 9,
+      "category": "Dress",
+      "title": "Weddress9",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image9.webp"
+    },
+    {
+      "id": 10,
+      "category": "Dress",
+      "title": "Weddress10",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image10.webp"
+    },
+	{
+      "id": 11,
+      "category": "Dress",
+      "title": "Weddress1",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image11.webp"
+    },
+    {
+      "id": 2,
+      "category": "Dress",
+      "title": "Weddress12",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image12.webp"
+    },
+    {
+      "id": 3,
+      "category": "Dress",
+      "title": "Weddress13",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image13.webp"
+    },
+    {
+      "id": 4,
+      "category": "Dress",
+      "title": "Weddress14",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image14.webp"
+    },
+    {
+      "id": 5,
+      "category": "Dress",
+      "title": "Weddress15",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image15.webp"
+    },
+    {
+      "id": 6,
+      "category": "Dress",
+      "title": "Weddress16",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image16.webp"
+    },
+    {
+      "id": 7,
+      "category": "Dress",
+      "title": "Weddress17",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image17.webp"
+    },
+    {
+      "id": 8,
+      "category": "Dress",
+      "title": "Weddress18",
+      "image_link": "https://raw.githubusercontent.com/masutarji/gambar/main/Image18.webp"
+    }
+  ]
+}
