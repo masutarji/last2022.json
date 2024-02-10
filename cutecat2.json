@@ -1,11 +1,11 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
+      "main_ads_banner": "5843576452424206_5843579752423876",
+      "main_ads_intertitial":"5843576452424206_5843580215757163",
+      "main_ads_natives":"5843576452424206_5843580685757116",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
@@ -13,9 +13,9 @@
       "open_ads_alien":"",
       "open_ads_max":"1",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"205594107",
+      "initialize_sdk_backup_ads":"205594107",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -28,127 +28,115 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "Cute Cat",
+      "wallpaper_url": "https://i.pinimg.com/564x/70/c6/25/70c6250a7edd364cda447a9f686a1289.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Super Car",
-      "wallpaper_name": "Targa",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/564x/70/c6/25/70c6250a7edd364cda447a9f686a1289.jpg"
     },
     {
       "id": 2,
-      "name_category": "Super Car",
-      "wallpaper_name": "AUDI",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car2.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/9e/74/b99e742df4c1835f738f40854c01035e.jpg"
     },
     {
       "id": 3,
-      "name_category": "Super Car",
-      "wallpaper_name": "Lamborghini online",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+      "wallpaper_url": "https://i.pinimg.com/564x/22/ff/1e/22ff1ee45cd4e5a6135090cbe6085d7e.jpg"
     },
     {
       "id": 4,
-      "name_category": "Animals",
-      "wallpaper_name": "Cats Eyes",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/3f/82/e83f825a59099ed448f8a9134d13a4e0.jpg"
     },
     {
       "id": 5,
-      "name_category": "Nature",
-      "wallpaper_name": "Waterfall",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+      "wallpaper_url": "https://i.pinimg.com/564x/30/44/7c/30447cb0e80c1d9f1d9987a7137f8783.jpg"
     },
     {
       "id": 6,
-      "name_category": "Nature",
-      "wallpaper_name": "Mountains",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+      "wallpaper_url": "https://i.pinimg.com/564x/71/64/3e/71643ecb05cdf2fb47f1123121378033.jpg"
     },
     {
       "id": 7,
-      "name_category": "Animals",
-      "wallpaper_name": "Loves Bird",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/bf/cb/8fbfcb3fd64d7161bb77f22ffa9f78ed.jpg"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Online",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/61/c2/1d61c2695bcb4226ef9c780ad64766e4.jpg"
     },
     {
       "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Folder Asset",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/1c/2b/8f1c2b9d229afbc98027be71dc709c40.jpg"
     },
     {
       "id": 10,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Beach Online",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
-    },
-    {
-      "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "Live Frog Folder Asset",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/af/75/e6af75e61ad87074a5449c8a4eb731a4.jpg"
     },
     {
       "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "Blue Ink",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/c2/df/0ec2df69604a561f7b786f4fdd468a12.jpg"
     },
     {
       "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "Summer",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/99/8c/2e998cd9cc74041ca7894d252d5fadf7.jpg"
     },
     {
       "id": 13,
-      "name_category": "Vector",
-      "wallpaper_name": "Sunset vecto",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/12/64/1e1264b9ab7a5f56db294312e132ea78.jpg"
     },
     {
       "id": 14,
-      "name_category": "Vector",
-      "wallpaper_name": "Vector island pirate",
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/09/98/8c09983e256bc2ee124cf969999df8ec.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Cute Cat",
+      "wallpaper_name": "Cat15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/e2/f9/3ae2f9a86617fdd8756b79cf0a2819bf.jpg"
     }
   ]
 }
